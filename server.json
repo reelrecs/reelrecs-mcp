@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.reelrecs/reelrecs",
+  "title": "ReelRecs",
+  "description": "Find movies and shows for tonight with current trends, mood, taste and streaming options.",
+  "version": "1.0.6",
+  "websiteUrl": "https://reelrecs.com/assistants/",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/reelrecs/reelrecs-mcp/main/assets/icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "256x256"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.reelrecs.com/mcp"
+    }
+  ]
+}

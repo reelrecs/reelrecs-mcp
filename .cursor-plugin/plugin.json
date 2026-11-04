@@ -1,0 +1,19 @@
+{
+  "name": "reelrecs",
+  "version": "1.0.6",
+  "description": "Find movies and shows for tonight with current trends, mood, taste and streaming options.",
+  "author": {
+    "name": "REELRECS INC"
+  },
+  "homepage": "https://reelrecs.com/assistants/",
+  "repository": "https://github.com/reelrecs/reelrecs-mcp",
+  "license": "MIT",
+  "keywords": [
+    "movies",
+    "tv",
+    "streaming",
+    "recommendations",
+    "entertainment"
+  ],
+  "logo": "assets/icon.png"
+}
