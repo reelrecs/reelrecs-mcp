@@ -3,7 +3,7 @@
   "name": "com.reelrecs/reelrecs",
   "title": "ReelRecs",
   "description": "Find movies and shows for tonight with current trends, mood, taste and streaming options.",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "websiteUrl": "https://reelrecs.com/assistants/",
   "icons": [
     {
